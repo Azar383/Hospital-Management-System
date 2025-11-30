@@ -1,0 +1,5 @@
+{
+  "name": "CloudCare HMS",
+  "description": "A multi-tenant, cloud-enabled Hospital Management System enabling hospitals to self-register, manage operations, and maintain complete patient lifecycle management with role-based access control.",
+  "requestFramePermissions": []
+}
